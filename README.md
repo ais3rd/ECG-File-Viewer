@@ -23,3 +23,6 @@ Open `Project1.dproj` in Delphi (RAD Studio, Community Edition works) and run it
 ## Files
 - `Cekdataecg.pas` / `.dfm`: main form and logic
 - `Project1.dpr`: project entry point
+
+## License
+Released under the [MIT License](LICENSE).
