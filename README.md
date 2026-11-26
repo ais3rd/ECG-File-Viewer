@@ -2,6 +2,8 @@
 
 A Delphi VCL app that loads ECG data from a text file, plots it, and overlays a sinusoidal baseline signal you configure. The overlay shows how baseline wander changes an ECG recording.
 
+![ECG with sinusoidal baseline overlay](screenshot.png)
+
 ## Features
 - Opens a `.txt` file with two columns per line: `time ecg_value`
 - Lists the raw ECG values in a list box
